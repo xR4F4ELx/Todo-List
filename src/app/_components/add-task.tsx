@@ -1,6 +1,6 @@
 import React from 'react'
 
-const AddToCart = () => {
+const AddToCarts = () => {
     return (
       <div>
           <button onClick={() => console. log('Click')}>Add to Cart</button>
@@ -8,4 +8,4 @@ const AddToCart = () => {
     )
   }
   
-  export default AddToCart
+  export default AddToCarts
