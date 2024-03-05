@@ -62,5 +62,9 @@
   "ct3aMetadata": {
     "initVersion": "7.25.1"
   },
-  "packageManager": "npm@10.2.3"
+  "packageManager": "npm@10.2.3",
+  "description": "## Version 1.5",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
 }
